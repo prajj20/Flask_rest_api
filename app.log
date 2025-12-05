@@ -1,0 +1,12 @@
+2025-12-05 11:24:32,327 - WARNING -  * Debugger is active!
+2025-12-05 11:24:32,332 - INFO -  * Debugger PIN: 623-283-420
+2025-12-05 11:24:46,530 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-05 11:24:46,530 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-05 11:24:46,532 - INFO -  * Restarting with stat
+2025-12-05 11:24:46,962 - WARNING -  * Debugger is active!
+2025-12-05 11:24:46,969 - INFO -  * Debugger PIN: 188-102-824
+2025-12-05 11:24:58,189 - INFO -  * Detected change in 'd:\\flask_api\\app_log.py', reloading
+2025-12-05 11:24:58,235 - INFO -  * Restarting with stat
+2025-12-05 11:24:58,841 - WARNING -  * Debugger is active!
+2025-12-05 11:24:58,850 - INFO -  * Debugger PIN: 188-102-824
